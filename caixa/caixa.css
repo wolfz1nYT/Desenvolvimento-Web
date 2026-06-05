@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff
+  }
+  
+  h1 {
+    color: #813797;
+    font-size: 2em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+  }
+  
+  .job-title {
+    color: #942fed;
+    font-weight: bold;
+  }
+
+  .card {
+    width: 300px;
+    padding: 20px;
+    margin: 40px center;
+    background-color: #c2c2c2;
+    color: #000000;
+    border:2px solid #653797;
+    font-family: Arial, sans-serif;
+}
+
+.card h2 {
+    margin-top: 0;
+    color: #6200ff;
+}
+
+.card p {
+    margin: 5px 0;
+}
+
+hr {
+    border: none;
+    height: 20px;
+    background-image: radial-gradient(circle, purple 5px, transparent 6px);
+    background-size: 20px 20px;
+    background-repeat: repeat-x;
+    margin: 10px 0;
+}
