@@ -1,5 +1,5 @@
 # Desenvolvimento-Web
-Repositório para os trabalhos de HTML - 2025 
+Repositório para os trabalhos de Desenvolvimento Web - 2025 
 
 Repositório destinado aos trabalhos e exercícios desenvolvidos durante o curso de Desenvolvimento de Sistemas.
 
